@@ -1,0 +1,11 @@
+{
+  "name": "backendcwc",
+  "version": "1.0.0",
+  "description": "backend series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aymaan shabbir",
+  "license": "ISC"
+}
